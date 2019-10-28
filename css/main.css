@@ -1,0 +1,14 @@
+/* child selector */
+
+li > a {
+    color: red;
+}
+
+
+/* descendant selector */
+
+body h1 {
+  background-color: green;
+}
+
+
